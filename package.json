@@ -58,7 +58,7 @@
     "node-fetch": "^2.6.0",
     "parse-json": "^5.0.0",
     "pirates": "^4.0.1",
-    "prismjs": "^1.20.0",
+    "prismjs": "^1.24.0",
     "prompts": "^2.3.0",
     "rxjs": "^6.5.4",
     "setset": "^0.0.4",
